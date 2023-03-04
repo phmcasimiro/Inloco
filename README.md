@@ -1,2 +1,3 @@
 # Inloco
- Scripts python para projetos geográficos. Scripts que entregam produtos comuns construídos com dados geográficos.
+ Repositório de scripts python para projetos geográficos. 
+ Scripts que entregam produtos simples e comuns construídos com dados geográficos.
