@@ -15,7 +15,7 @@ from shapely.geometry import Point, LineString, Polygon
 # Exemplo: Estado do Rio de Janeiro é representando por uma geometria multipolygon porque o territorio continental e as ilhas fazem parte do mesmo objeto 
 from shapely.geometry import MultiPoint, MultiLineString, MultiPolygon, box 
 
-# Criar variáveis do tipo ponto e atribuindo coordenadas
+# Criar variáveis do tipo ponto e atribuir coordenadas
 p1 = Point(5.4,3.0)
 p2 = Point(10,-7)
 p3 = Point(80,25)
